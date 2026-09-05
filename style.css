@@ -39,7 +39,7 @@ body * {
     --surface-color: rgba(0, 0, 0, .05);
     --surface-color-hover: (255, 255, 255, .05);
     --highlight-color: rgba(0, 0, 0, 0.2);
-    --switch-bg-url: url(./assets/sun.svg);
+    --switch-bg-url: url(./assets/MoonStars.svg);
 }
 
 #container {
